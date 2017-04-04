@@ -95,3 +95,6 @@ ENV/
 
 # mkdocs documentation
 /site
+
+#Visual Studio Code Settings
+#.vscode/
